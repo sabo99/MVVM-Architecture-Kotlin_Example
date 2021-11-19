@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM-Architecture-Kotlin</string>
+    <string name="hint_title">Enter Title</string>
+    <string name="hint_btn">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="test">Hallo</string>
+</resources>
